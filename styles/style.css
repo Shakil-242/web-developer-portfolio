@@ -143,5 +143,14 @@ main{
 }
 /* About Section Styles End */
 
+.only{
+    padding:30px 150px;
+}
+
+.skill-container{
+    display: flex;
+    justify-content: space-between;
+}
+
 
 
