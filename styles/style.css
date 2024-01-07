@@ -4,6 +4,19 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.section-title{
+    color:#181818);
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.section-description{
+    color:#757575);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    
+}
 /* Common Shared Styles End */
 
 /* Primary Color Styles */
@@ -96,5 +109,16 @@ nav a{
 
 }
 /* banner related styles end */
+/* Main Section Styles Start */
+/* About Section Styles Start */
+
+.about{
+    padding:131px;
+    background-color: #FFF8F3;
+    margin:130px 0px;
+}
+
+/* About Section Styles End */
+/* Main Section Styles End */
 
 
